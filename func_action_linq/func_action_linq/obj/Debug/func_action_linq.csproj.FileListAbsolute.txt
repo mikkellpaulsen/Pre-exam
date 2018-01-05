@@ -1,0 +1,7 @@
+C:\Users\sejel\source\repos\func_action_linq\func_action_linq\bin\Debug\func_action_linq.exe.config
+C:\Users\sejel\source\repos\func_action_linq\func_action_linq\bin\Debug\func_action_linq.exe
+C:\Users\sejel\source\repos\func_action_linq\func_action_linq\bin\Debug\func_action_linq.pdb
+C:\Users\sejel\source\repos\func_action_linq\func_action_linq\obj\Debug\func_action_linq.csprojResolveAssemblyReference.cache
+C:\Users\sejel\source\repos\func_action_linq\func_action_linq\obj\Debug\func_action_linq.csproj.CoreCompileInputs.cache
+C:\Users\sejel\source\repos\func_action_linq\func_action_linq\obj\Debug\func_action_linq.exe
+C:\Users\sejel\source\repos\func_action_linq\func_action_linq\obj\Debug\func_action_linq.pdb
